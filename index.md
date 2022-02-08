@@ -49,5 +49,5 @@ Basic features are available without client-side JavaScript.
 
 ## More information
 
-1. [Quick Start](./quickstart.md)
-1. [Troubleshooting](./troubleshooting.md)
+1. [Quick Start](./quickstart)
+1. [Troubleshooting](./troubleshooting)
