@@ -1,5 +1,11 @@
 # Quick Start
 
+Use the **[project creator](https://photonprojectcreator.web.app)** to get a basic photon project.
+
+Or use the **[template repository](https://github.com/photon-framework/template)**.
+
+Or create it by yourself:
+
 ### Use npm or yarn to import the library.
 
 ```bash
